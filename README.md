@@ -1,8 +1,9 @@
-# React + Vite
+#FOODIES
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is how i learnt tables. it wasn't all me though. this is just my process in creating the main app devroad which -is gonna also be cool- so check it out at 
 
-Currently, two official plugins are available:
+[https://vercel.com/happylove32cs-projects/foodies/9MKnzCJtAZPnPKWyk7PKac2DKhbd](Live-Demo)
+also check out my Youtube [https://www.youtube.com/@DevoDrive](Youtube). there's cool stuff there too.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thanks
+

@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Cheese Burger",
+      "content": "Beef patty, cheddar cheese, lettuce, tomato, pickles, burger bun",
+      "price": 5.99,
+      "picture":"https://i.pinimg.com/736x/3b/6c/c6/3b6cc651e4cd1cbc7fa7d559a5b81810.jpg"
+    },
+    {
+      "name": "Margherita Pizza",
+      "content": "Tomato sauce, mozzarella cheese, fresh basil, olive oil",
+      "price": 8.99,
+      "picture":"https://i.pinimg.com/736x/62/a0/50/62a050cfa783c0f897bcf25325be5fac.jpg"
+    },
+    {
+      "name": "Caesar Salad",
+      "content": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing",
+      "price": 4.99,
+      "picture":"https://i.pinimg.com/736x/32/50/e4/3250e4d5bc4bd506cbcd53bedbf83caf.jpg"
+    },
+    {
+      "name": "Chicken Alfredo Pasta",
+      "content": "Fettuccine, grilled chicken, Alfredo sauce, parsley",
+      "price": 7.99,
+      "picture":"https://i.pinimg.com/736x/02/1f/c9/021fc975733c4e6634f45353d1bc432d.jpg"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "content": "Broccoli, bell peppers, carrots, snap peas, soy sauce",
+      "price": 6.49,
+      "picture":"https://i.pinimg.com/736x/f5/ca/f8/f5caf80dfec53e2d0d2f3afd274ef383.jpg"
+    },
+    {
+      "name": "Fish Tacos",
+      "content": "Grilled fish, cabbage slaw, lime crema, corn tortilla",
+      "price": 6.99,
+      "picture":"https://i.pinimg.com/736x/16/d2/10/16d210da26f373d9726293d86093d8bf.jpg"
+    },
+    {
+      "name": "Buffalo Wings",
+      "content": "Chicken wings, buffalo sauce, ranch dressing, celery sticks",
+      "price": 9.49,
+      "picture":"https://i.pinimg.com/736x/3e/ce/18/3ece18e23d94f2c3b0219e5400bf092c.jpg"
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "content": "Warm chocolate cake, molten chocolate center, vanilla ice cream",
+      "price": 5.49,
+      "picture":"https://i.pinimg.com/736x/05/e2/8e/05e28e1caf40221df9c9abff8dc45ee9.jpg"
+    }
+  ]
+  
